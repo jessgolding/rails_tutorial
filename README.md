@@ -7,6 +7,8 @@ Things you may want to cover:
 
 * Hello Jeff!
 
+* It's MEEEEEEE
+
 * Ruby version
 
 * System dependencies
